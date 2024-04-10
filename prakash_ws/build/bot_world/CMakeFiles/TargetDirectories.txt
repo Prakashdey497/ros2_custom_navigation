@@ -1,0 +1,9 @@
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_world/CMakeFiles/uninstall.dir
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_world/CMakeFiles/bot_world_uninstall.dir
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_world/CMakeFiles/test.dir
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_world/CMakeFiles/edit_cache.dir
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_world/CMakeFiles/rebuild_cache.dir
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_world/CMakeFiles/list_install_components.dir
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_world/CMakeFiles/install.dir
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_world/CMakeFiles/install/local.dir
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_world/CMakeFiles/install/strip.dir

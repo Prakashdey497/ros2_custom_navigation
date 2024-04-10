@@ -1,0 +1,48 @@
+[0.100s] Invoking command in '/home/pdey/my_learning/Ros/prakash_ws/build/bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/pdey/my_learning/Ros/prakash_ws/build/bot_description -- -j16 -l16
+[0.132s] Invoked command in '/home/pdey/my_learning/Ros/prakash_ws/build/bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/pdey/my_learning/Ros/prakash_ws/build/bot_description -- -j16 -l16
+[0.164s] Invoking command in '/home/pdey/my_learning/Ros/prakash_ws/build/bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/pdey/my_learning/Ros/prakash_ws/build/bot_description
+[0.170s] -- Install configuration: ""
+[0.170s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/launch
+[0.170s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/launch/rviz.launch.py
+[0.170s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/launch/spawn.launch.py
+[0.170s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/launch/control.launch.py
+[0.171s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/launch/robot_state_publisher.launch.py
+[0.171s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/models
+[0.171s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/models/ground_plane
+[0.171s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/models/ground_plane/model-1_2.sdf
+[0.171s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/models/ground_plane/model.config
+[0.171s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/models/ground_plane/model.sdf
+[0.171s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/models/ground_plane/model-1_4.sdf
+[0.171s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/models/ground_plane/model-1_3.sdf
+[0.171s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/models/sun
+[0.171s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/models/sun/model-1_2.sdf
+[0.171s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/models/sun/model.config
+[0.171s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/models/sun/model.sdf
+[0.171s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/models/sun/model-1_4.sdf
+[0.172s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/models/sun/model-1_3.sdf
+[0.172s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/urdf
+[0.172s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/urdf/inertial_macros.xacro
+[0.172s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/urdf/bot_gazebo.xacro
+[0.172s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/urdf/bot.urdf.xacro
+[0.172s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/urdf/bot_ros2_control.xacro
+[0.172s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/rviz
+[0.172s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/rviz/display.rviz
+[0.172s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/rviz/gazebo.rviz
+[0.172s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/config
+[0.172s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/config/bot_controllers.yaml
+[0.172s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/ament_index/resource_index/package_run_dependencies/bot_description
+[0.172s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/ament_index/resource_index/parent_prefix_path/bot_description
+[0.173s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/environment/ament_prefix_path.sh
+[0.173s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/environment/ament_prefix_path.dsv
+[0.173s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/environment/path.sh
+[0.173s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/environment/path.dsv
+[0.173s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/local_setup.bash
+[0.174s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/local_setup.sh
+[0.174s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/local_setup.zsh
+[0.174s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/local_setup.dsv
+[0.174s] -- Installing: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/package.dsv
+[0.174s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/ament_index/resource_index/packages/bot_description
+[0.174s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/cmake/bot_descriptionConfig.cmake
+[0.174s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/cmake/bot_descriptionConfig-version.cmake
+[0.174s] -- Up-to-date: /home/pdey/my_learning/Ros/prakash_ws/install/bot_description/share/bot_description/package.xml
+[0.177s] Invoked command in '/home/pdey/my_learning/Ros/prakash_ws/build/bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/pdey/my_learning/Ros/prakash_ws/build/bot_description

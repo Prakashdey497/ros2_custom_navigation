@@ -1,0 +1,11 @@
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_control/CMakeFiles/uninstall.dir
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_control/CMakeFiles/bot_control_uninstall.dir
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_control/CMakeFiles/ament_cmake_python_copy_bot_control.dir
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_control/CMakeFiles/ament_cmake_python_build_bot_control_egg.dir
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_control/CMakeFiles/test.dir
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_control/CMakeFiles/edit_cache.dir
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_control/CMakeFiles/rebuild_cache.dir
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_control/CMakeFiles/list_install_components.dir
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_control/CMakeFiles/install.dir
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_control/CMakeFiles/install/local.dir
+/home/pdey/my_learning/Ros/prakash_ws/build/bot_control/CMakeFiles/install/strip.dir
