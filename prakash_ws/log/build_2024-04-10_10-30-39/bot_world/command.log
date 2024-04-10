@@ -1,4 +1,0 @@
-Invoking command in '/home/pdey/my_learning/Ros/prakash_ws/build/bot_world': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/pdey/my_learning/Ros/prakash_ws/build/bot_world -- -j16 -l16
-Invoked command in '/home/pdey/my_learning/Ros/prakash_ws/build/bot_world' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/pdey/my_learning/Ros/prakash_ws/build/bot_world -- -j16 -l16
-Invoking command in '/home/pdey/my_learning/Ros/prakash_ws/build/bot_world': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/pdey/my_learning/Ros/prakash_ws/build/bot_world
-Invoked command in '/home/pdey/my_learning/Ros/prakash_ws/build/bot_world' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/pdey/my_learning/Ros/prakash_ws/build/bot_world

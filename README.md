@@ -46,7 +46,7 @@ ros2 run turtlebot3_teleop teleop_keyboard
 . install/setup.bash && ros2 launch bot_world world.launch.py
 ```
 ### Output 
-![plot](./prakash_ws/src/gazebo_world.png)
+![plot](./prakash_ws/src/image/gazebo_world.png)
 
 
 
